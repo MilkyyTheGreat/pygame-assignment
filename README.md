@@ -19,7 +19,7 @@
 
 ## Version Guide
 
-# V1:
+### V1:
  - Score
  - Obstacles
  - Infinite Generator
@@ -27,7 +27,7 @@
  - End Screen/Game Over
 
 
-# V2:
+### V2:
  - Levels
  - New Obstacles
  - Main Hub
