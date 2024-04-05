@@ -24,5 +24,10 @@ V1:
  - Obstacles
  - Infinite Generator
  - Start Screen
-
 ```
+```
+V2:
+ - Levels
+ - New Obstacles
+ - Main Hub
+``` 
