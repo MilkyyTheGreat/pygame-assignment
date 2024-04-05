@@ -32,3 +32,7 @@
  - New Obstacles
  - Main Hub
  - Enhanced Sprites / Textures
+
+### V3:
+ - Bug Fixes
+ - Final Touches (i.e Enhanced Textures, Fixing Obstacle Hitboxes)
