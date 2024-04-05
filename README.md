@@ -19,18 +19,16 @@
 
 ## Version Guide
 
-```
-V1:
+# V1:
  - Score
  - Obstacles
  - Infinite Generator
  - Start Screen
  - End Screen/Game Over
-```
-```
-V2:
+
+
+# V2:
  - Levels
  - New Obstacles
  - Main Hub
  - Enhanced Sprites / Textures
-``` 
