@@ -15,6 +15,7 @@
 - Obstacles
 - Levels
 - Infinite Generator
+- Game Over
 
 ## Version Guide
 
@@ -24,10 +25,12 @@ V1:
  - Obstacles
  - Infinite Generator
  - Start Screen
+ - End Screen/Game Over
 ```
 ```
 V2:
  - Levels
  - New Obstacles
  - Main Hub
+ - Enhanced Sprites / Textures
 ``` 
