@@ -19,8 +19,6 @@ class Player(Entity):
 		vel_x = 0
 		vel_y = 0
 		
-		if pressed_key[pygame.K_a]:
-			vel_x = -self.speed
 		if pressed_key[pygame.K_d]:
 			vel_x = self.speed
 
